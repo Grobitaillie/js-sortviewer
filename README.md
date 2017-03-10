@@ -1,3 +1,5 @@
+````
 npm install
-node serve.js
-go to http://localhost:4200
+node server.js
+````
+go to [localhost:4200](http://localhost:4200)
